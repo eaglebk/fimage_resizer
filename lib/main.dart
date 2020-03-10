@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:resize_photo/data/resizer.dart';
+import 'package:resize_photo/widgets/ResizerWidget.dart';
 import 'package:resize_photo/widgets/ResizerButton.dart';
 
 void main() {
